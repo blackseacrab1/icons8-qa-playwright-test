@@ -1,0 +1,9 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.5, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\Mi\Desktop\icons8-test\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Mi\Desktop\icons8-test
+collecting ... collected 1 item
+
+test_icons.py::test_search_and_open_cat_icon PASSED                      [100%]
+
+============================== 1 passed in 12.47s ==============================
